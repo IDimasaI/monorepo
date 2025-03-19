@@ -1,0 +1,9 @@
+{
+  "PATH_ARCHIVE": "G:/monorepo/archive",
+  "Groups": {
+    "DMjs": [
+      "localStorage.ts",
+      "MarkdownParser.ts"
+    ]
+  }
+}

@@ -1,0 +1,5 @@
+{
+    "tasks": {
+        "build":"deno compile --allow-net --allow-read --allow-write --icon ./favicon.ico -o ./build/monor src/index.ts &&deno --allow-read --allow-write build.ts"
+    }
+}
